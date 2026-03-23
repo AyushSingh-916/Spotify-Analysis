@@ -126,5 +126,5 @@ python analysis.py
 
 ## 🔗 Connect
 
-Made by [Your Name] | [LinkedIn] | [GitHub]
+Made by Ayush Singh
 
